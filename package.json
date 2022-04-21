@@ -1,5 +1,5 @@
 {
-  "name": "@myntra/bus",
+  "name": "myntra-bus",
   "version": "1.0.0",
   "description": "a global event bus. ",
   "main": "index.js",
